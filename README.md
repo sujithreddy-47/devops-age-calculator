@@ -1,19 +1,8 @@
 # devops-age-calculator
 A Java CLI Age Calculator with a complete DevOps pipeline using Git, Maven, JUnit, Jenkins, Docker, and Ansible. Includes real-time monitoring via Graphite and Grafana. Demonstrates CI/CD automation, containerization, and infrastructure as code.
-Great catch — you **should not** copy and paste *what you just posted* above **as-is**, because it contains extra noise like:
 
-* Words like `Copy`, `Edit`, `bash`, `swift`, `markdown`
-* Indentation errors
-* Mixed formatting (like "2. Build with Maven" as part of the previous line)
-* Unescaped triple backticks or markdown elements
 
----
 
-### ✅ What You Should Do Instead:
-
-Use **this clean and final version below**. It’s already properly formatted and free of extra artifacts:
-
----
 
 ````markdown
 # 🧮 Age Calculator – DevOps CI/CD Project
